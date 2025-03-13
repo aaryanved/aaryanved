@@ -1,6 +1,6 @@
-# Hi! I'm Aaryan Ved Bhalla
+# Welcome! I'm Aaryan Ved Bhalla
 🏫 Computer Science Student at _____
-
+🏎️ F1 Connoisseur
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaryanvb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryanved) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aaryanvb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaryan14.bhalla@gmail.com) 
 
