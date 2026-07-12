@@ -16,7 +16,6 @@
 ```json
 {
   "focus": "Full-stack & AI Application Developer",
-  "building": "Building Numa",
   "current": "AI Enginner at Decimal Technologies",
   "education": "Hons. Computer Science at University of Waterloo",
   "hobby": ["Chess", "Go Karting", "3D Design"],
